@@ -29,13 +29,13 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://im5.ezgif.com/tmp/ezgif-5-e9f1034772.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='https://im3.ezgif.com/tmp/ezgif-3-82485eab5b.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://im5.ezgif.com/tmp/ezgif-5-73efaf95e0.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [ezgif](https://ezgif.com/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Had initial issues with bill amount; tip and final amount were not dynamically changed along with user input 
 
 ## License
 
